@@ -1,0 +1,60 @@
+body {background: beige;}
+#title {background: #AA0000;
+		margin: 12px 12px 12px 12px;
+		border-style: double;
+		border-width: medium;
+		border-color: blue;
+		padding-bottom: 10px}
+
+#name {	color:cyan; 
+		font-size:48px; 
+		text-align:center; 
+		font-family: fantasy}
+
+#info {text-align: center;}
+#address {color:cyan; font-size:16px; display: inline; font-weight: bold;}
+#number {color:cyan; font-size: 16px; display: inline; font-weight: bold;}		
+#email {color:cyan; font-size: 16px; display: inline; font-weight: bold;}
+
+#education {background: gold;
+			margin: 12px 12px 12px 12px;
+			border-style: double;
+			border-width: medium;
+			border-color: goldenrod;
+			padding-left: 10px;
+			}
+
+#courses_and_projects { background: gold;
+						margin: 12px 12px 12px 12px;
+						border-style: double;
+						border-color: goldenrod;
+						padding-left: 10px;
+						}
+
+#experience { background: gold;
+			margin: 12px 12px 12px 12px;
+			border-style: double;
+			border-width: medium;
+			border-color: goldenrod;
+			padding-left: 10px}
+
+#skills {background: gold;
+		margin: 12px 12px 12px 12px;
+		border-style: double;
+		border-width: medium;
+		border-color: goldenrod;
+		padding-left: 10px;}
+
+#interests {background: gold;
+			margin: 12px 12px 12px 12px;
+			border-style: double;
+			border-color: goldenrod;
+			border-width: medium;
+			padding-left: 10px;}
+
+.institution {color:black; font-size:18px; display: inline;}
+.location {color:black; font-size: 16px; display: inline;}
+.section-title {color: black;
+				font-size: 18px;
+				text-align: center;
+				font-family: cursive;}
