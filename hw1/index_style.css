@@ -1,0 +1,44 @@
+#content {
+	height: 1000px;
+	width: auto;
+	background: beige;
+}
+
+.main_column {
+	height: 100%;
+	width: 32.9%;
+	border-style: double;
+	border-width: large;
+	display: inline;
+}
+
+#left_column {
+	float: left;
+	background: green;
+}
+
+#middle_column {
+	float:left;
+	margin-left: auto;
+	margin-right: auto;
+	background: red;
+}
+
+#right_column {
+	float: left;
+	background: blue;
+}
+
+#banner {
+	height: 100px;
+	width: auto;
+	border-style: ridge;
+	text-align: center;
+	font-size: 60px;
+	background: gold;
+}
+
+.image {
+	height: auto;
+	width: 100%;
+}
