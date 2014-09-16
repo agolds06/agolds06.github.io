@@ -76,6 +76,6 @@ a:link {
 	color: blue;
 }
 
-a#bio:visited {
+a:visited {
 	color: white;
 }
