@@ -1,1 +1,12 @@
 /* AINT GOT NO STYLE */
+
+p {
+	background: goldenrod;
+	border: ridge;
+	margin: 12px 12px 12px 12px;
+}
+
+#content {
+	background: aquamarine;
+	border: dotted;
+}
