@@ -1,0 +1,81 @@
+body {
+	background-image: url('assets/america_eagle.jpg');
+	height: 100%;
+	width: 100%;
+}
+
+#content {
+	height: 1000px;
+	width: 100%;
+}
+
+.main_column {
+	height: 100%;
+	width: 32.9%;
+	display: inline;
+}
+
+#left_column {
+	float: left;
+	background: rgba(0,255,0,.4);
+}
+
+#middle_column {
+	margin-left: 10px;
+	float: left;
+	background: rgba(255,0,0,.4);
+	display: inline;
+}
+
+#right_column {
+	float: right;
+	background: rgba(0,0,255,.4);
+}
+
+#banner {
+	height: 100px;
+	width: auto;
+	border-style: ridge;
+	text-align: center;
+	font-size: 60px;
+	font-family: cursive;
+	background: gold;
+}
+
+.image {
+	height: auto;
+	width: 100%;
+	opacity: auto;
+}
+
+.column_title {
+	text-align: center;
+	font-size: 28px;
+	width: 100%;
+	border: none;
+}
+
+#person {
+	background: green;
+}
+
+#professional {
+	background: red;
+}
+
+#p_word {
+	background: blue;
+}
+
+.descriptor {
+	text-align: center;
+	font-size: 40px
+}
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: white;
+}
